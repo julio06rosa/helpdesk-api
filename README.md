@@ -223,4 +223,4 @@ As rotas definem os endpoints, os controllers concentram as operações da aplic
 
 **Júlio César Duarte da Rosa**
 
-Estudante de Engenharia de Software, com interesse em desenvolvimento Back-end, APIs REST e bancos de dados.
+Estudante de Engenharia de Software.
